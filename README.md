@@ -7,7 +7,7 @@ Welcome to my digital headquarters. I am a 1st-year ECE student at **ISAT U**, s
 
 ### EAVB Electronics (Industrial Hardware)
 *Professional-grade circuit design focusing on efficiency and robust protection.*
-* **[EAVB-ARCHON-Power-Hub](#)**: 15W High-Efficiency Buck Converter featuring the "Ocean Ground Strategy."
+* **[EAVB-ARCHON-Power-Hub]((https://github.com/ean123great/EAVB-ARCHON-Power-Hub)**: 15W High-Efficiency Buck Converter featuring the "Ocean Ground Strategy."
 * **[EAVB-HELIOS-Sentinel](#)**: Laser-interlocked UV-C safety system driven by ATtiny85.
 * **[EAVB-Indestructible-Driver](#)**: (In Development) High-current motor controller with multi-stage filtering.
 
@@ -23,7 +23,7 @@ Welcome to my digital headquarters. I am a 1st-year ECE student at **ISAT U**, s
 * **[LABS-Bio-Insulation](#)**: Analysis of recycled plastics and bacterial handling for thermal materials.
 * **[LABS-SENSE-Robotics](#)**: Ultrasonic safety logic and technical advisory for environmental notification systems.
 
-### Academic & Core (The Polymath Vault)
+### Academic & Core 
 *The intersection of faith, music, and academic excellence at ISAT U.*
 * **[CORE-ISATU-Academics](#)**: Compiled notes for Emath 2 (Integral Calculus) and EPHYS 12.
 * **[CORE-Classical-Arrangements](#)**: Original tenor-baritone compositions and multi-instrumental scores.
