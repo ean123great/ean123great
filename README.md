@@ -34,7 +34,7 @@ Welcome to my digital headquarters. I am a 1st-year ECE student at **ISAT U**, s
 ### 🛡️ Intellectual Property & Licensing
 All hardware and software designs within the **EAVB** prefix are protected under the **CC BY-NC-SA 4.0** license. 
 
-> **💼 Commercial Inquiries:** > For manufacturing rights, custom hardware engineering, or commercial licensing of EAVB technologies, please contact me at: **elcynandrewscientist@gmail.com**
+> **💼 Commercial Inquiries:** > For manufacturing rights, custom hardware engineering, or commercial licensing of EAVB technologies, please contact me at: **eavb.electronics@gmail.com**
 
 ---
 
