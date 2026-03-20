@@ -7,7 +7,7 @@ Welcome to my digital headquarters. I am a 1st-year ECE student at **ISAT U**, s
 
 ### EAVB Electronics (Industrial Hardware)
 *Professional-grade circuit design focusing on efficiency and robust protection.*
-* **[EAVB-ARCHON-Power-Hub]((https://github.com/ean123great/EAVB-ARCHON-Power-Hub)**: 15W High-Efficiency Buck Converter featuring the "Ocean Ground Strategy."
+* **[EAVB-ARCHON-Power-Hub](https://github.com/ean123great/EAVB-ARCHON-Power-Hub)**: 15W High-Efficiency Buck Converter featuring the "Ocean Ground Strategy."
 * **[EAVB-HELIOS-Sentinel](#)**: Laser-interlocked UV-C safety system driven by ATtiny85.
 * **[EAVB-Indestructible-Driver](#)**: (In Development) High-current motor controller with multi-stage filtering.
 
