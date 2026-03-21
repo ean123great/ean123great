@@ -9,7 +9,7 @@ Welcome to my digital headquarters. I am a 1st-year ECE student at **ISAT U**, s
 *Professional-grade circuit design focusing on efficiency and robust protection.*
 * **[EAVB-ARCHON-Power-Hub](https://github.com/ean123great/EAVB-ARCHON-Power-Hub)**: 15W High-Efficiency Buck Converter featuring the "Ocean Ground Strategy."
 * **[EAVB-HELIOS-Sentinel](https://github.com/ean123great/EAVB-HELIOS-Sentinel)**: Laser-interlocked UV-C safety system driven by ATtiny85.
-* **[EAVB-Indestructible-Driver](#)**: (In Development) High-current motor controller with multi-stage filtering.
+* **[EAVB-SONARIS-Ultrasonic](https://github.com/ean123great/EAVB-SONARIS-Ultrasonic)**: (In Development) High-precision I2C ultrasonic sensor architecture featuring an onboard 32-bit RISC-V coprocessor for advanced acoustic DSP..
 
 ### Systems & Software (Dev & AI)
 *Integrating intelligence into hardware through clean, optimized code.*
