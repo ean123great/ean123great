@@ -13,21 +13,9 @@ Welcome to my digital headquarters. I am a 1st-year ECE student at **ISAT U**, s
 
 ### Systems & Software (Dev & AI)
 *Integrating intelligence into hardware through clean, optimized code.*
-* **[DEV-MARITES-AI](#)**: Filipino-persona AI Assistant running on Raspberry Pi 5.
-* **[DEV-ECE-Tools](#)**: Python/MATLAB scripts for automated Calculus and Physics II analysis.
-* **[DEV-CS50-Deep-Dive](#)**: Foundational computer science implementations and algorithms.
 
 ### EAVB Research Labs (Applied Sciences)
 *Experimental research in microbiology, sustainable farming, and material science.*
-* **[LABS-Mushroom-Automation](#)**: IoT-based smart environment for oyster mushroom cultivation.
-* **[LABS-Bio-Insulation](#)**: Analysis of recycled plastics and bacterial handling for thermal materials.
-* **[LABS-SENSE-Robotics](#)**: Ultrasonic safety logic and technical advisory for environmental notification systems.
-
-### Academic & Core 
-*The intersection of faith, music, and academic excellence at ISAT U.*
-* **[CORE-ISATU-Academics](#)**: Compiled notes for Emath 2 (Integral Calculus) and EPHYS 12.
-* **[CORE-Classical-Arrangements](#)**: Original tenor-baritone compositions and multi-instrumental scores.
-* **[CORE-Theology-Studies](#)**: Baptist doctrine research, biblical commentaries, and theological analysis.
 
 ---
 
