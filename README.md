@@ -1,7 +1,7 @@
 # The EAVB Ecosystem | Elcyn Andrew V. Booc
 **Electronics Engineer • Systems Architect • DOST Merit Scholar**
 
-Welcome to my digital headquarters. I am a 1st-year ECE student at **ISAT U**, specializing in high-efficiency power systems, autonomous robotics, and applied microbiology. I build hardware that is "indestructible" by design.
+Welcome to my digital headquarters. I am a 2nd-year ECE student at **ISAT U**, specializing in high-efficiency power systems, autonomous robotics, and applied microbiology. I build hardware that is "indestructible" by design.
 
 ---
 
