@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="wYHfI_P6izp875D0CaJCNfJc3sP-abd6JpcQQo9MT7Q" />
-
 <div align="center">
 
 # The EAVB Systems Ecosystem
