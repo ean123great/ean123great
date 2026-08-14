@@ -1,6 +1,6 @@
 <div align="center">
 
-# The EAVB Systems Engineering Ecosystem
+# The EAVB Systems Ecosystem
 
 ### **Elcyn Andrew V. Booc**
 *Electronics Engineering Undergraduate • Systems Architect • DOST Merit Scholar*  
