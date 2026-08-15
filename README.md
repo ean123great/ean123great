@@ -20,7 +20,7 @@
 | Metric / Parameter | Specification / Benchmark | Status |
 | :--- | :--- | :--- |
 | **Primary Architecture** | MicroPython / C++ Dual-Tier Edge Framework | 🟢 Active Deployment |
-| **Robotics Payload Target** | 2.5 kg High-Speed Tendon-Driven SCARA Arm | ⚙️ In Development |
+| **Robotics Payload Target** | 2.5 kg High-Speed SCARA Arm | ⚙️ In Development |
 | **Power Efficiency** | 15W High-Efficiency Buck (Ocean Ground Strategy) | ⚡ Optimized |
 | **Sensor Interfacing** | Non-Blocking Analog AFE & Optical Biometrics | 🚀 Production Ready |
 | **Code Execution Model** | 100% Non-Blocking Asynchronous Event Loops | ⚡ Zero Latency |
