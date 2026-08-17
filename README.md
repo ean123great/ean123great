@@ -3,7 +3,7 @@
 # The EAVB Systems Ecosystem
 
 ### **Elcyn Andrew V. Booc**
-*Electronics Engineering Undergraduate • Systems Architect • DOST Merit Scholar*  
+*2nd Year Electronics Engineering Undergraduate • Systems Architect • DOST Merit Scholar*  
 **Iloilo Science and Technology University (ISAT U)**
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=engiElkin0507&color=00d2ff&style=flat-square&label=HQ+VISITS)](https://github.com/engiElkin0507)
